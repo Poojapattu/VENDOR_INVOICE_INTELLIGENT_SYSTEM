@@ -1,0 +1,8 @@
+Copy these two files from your current Streamlit project into this folder:
+
+best_freight_model.pkl
+invoice_risk_flagging_model.pkl
+
+The application automatically loads them.
+
+If they are absent, the backend creates lightweight fallback ML models so the React application still runs end-to-end.
