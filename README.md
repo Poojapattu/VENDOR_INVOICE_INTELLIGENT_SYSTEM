@@ -72,3 +72,5 @@ The dashboard shows:
 - Reason for the risk result
 - Business insights
 - Operational checks
+- <img width="1611" height="800" alt="image" src="https://github.com/user-attachments/assets/4df42ad4-1355-4628-aed0-584da03b3f47" />
+
